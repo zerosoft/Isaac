@@ -1,9 +1,11 @@
 # Isaac
 以撒图签 Isaac
 
-![image](https://github.com/zerosoft/Isaac/blob/master/20171220145919.png)
+![image](https://github.com/zerosoft/Isaac/blob/master/20171220150341.png)
 
-![image](https://github.com/zerosoft/Isaac/blob/master/20171220145928.png)
+![image](https://github.com/zerosoft/Isaac/blob/master/20171220150351.png)
+
+![image](https://github.com/zerosoft/Isaac/blob/master/20171220150358.png)
 
 使用Ionic构建的 以撒的结合 道具图签
 
