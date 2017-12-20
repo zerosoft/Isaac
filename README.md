@@ -2,6 +2,8 @@
 以撒图签 Isaac
 使用Ionic构建的 以撒的结合 道具图签
 
+所有信息来自互联网
+
 调试命令
 ionic serve
 
